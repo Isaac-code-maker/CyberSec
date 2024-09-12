@@ -24,7 +24,6 @@ def criptografia(texto, cifra):
 texto = input("Digite o texto  que deseja criptografar: ")
 
 cifra = gerarcifra()
-print("Cifra Gerada:", cifra)
 
 texto_cifrado = criptografia(texto, cifra)
 print("Texto criptografado: ", texto_cifrado)
