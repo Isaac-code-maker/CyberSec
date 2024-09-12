@@ -2,7 +2,7 @@
 
 # CyberSec Projects by Isaac-code-maker
 
-Este repositório contém uma coleção de códigos, ferramentas e projetos desenvolvidos por mim, PhantomGlitch, relacionados à área de cibersegurança. O foco está em explorar técnicas e ferramentas de pentesting, criptografia, análise de vulnerabilidades e muito mais.
+Este repositório contém uma coleção de códigos, ferramentas e projetos desenvolvidos por mim, Isaac Aires, relacionados à área de cibersegurança. O foco está em explorar técnicas e ferramentas de pentesting, criptografia, análise de vulnerabilidades e muito mais.
 
 ## Objetivo
 
